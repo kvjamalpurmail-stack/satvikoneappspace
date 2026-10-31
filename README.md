@@ -1,2 +1,2 @@
 # satvikoneappspace
-A app for exploring space 🌌
+An app for exploring the dark cosmos
